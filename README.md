@@ -1,2 +1,3 @@
-# coviddetection
- I've worked on a project of creating a ML-model which detects whether a patient is tested positive for COVID-19 or not. I've also developed a website on which a person can upload his/her Xray or CT-scan image to determine that they would classify them as carrier of COVID 19 or not. All of this is done with flask as web-framework and backend integrating with deep learning libraries and modules like tensorflow and keras.
+#COVID-DETECTION:
+
+I have undertaken a project aimed at creating a machine-learning model capable of accurately detecting whether a patient has tested positive for COVID-19. In addition to this, I have developed a website utilizing Flask as the web framework, with the backend seamlessly integrating deep learning libraries and modules such as TensorFlow and Keras. The purpose of this website is to enable users to upload their X-ray or CT-scan images for the purpose of determining whether the model classifies them as carriers of COVID-19 or not.
